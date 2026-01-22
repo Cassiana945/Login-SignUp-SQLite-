@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login Signup SQLite</string>
+    <string name="sign_up">Sign Up!</string>
+    <string name="login">Login</string>
+    <string name="is_user">Already registered? Login</string>
+    <string name="not_user">Not yet Registered? SignUp</string>
+</resources>
